@@ -1,7 +1,7 @@
 ---
 layout: default
 icon: fa-fw fas fa-users
-order: 2
+order: 3
 ---
 # Meet Our Team
 
