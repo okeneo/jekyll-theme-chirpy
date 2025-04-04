@@ -12,7 +12,7 @@ We are a passionate and dedicated team of 5 individuals, each bringing unique sk
 ### ![Team Member 1](..\Huzaifa.jpg)  
 **Name**: Huzaifa Mehboob  
 **Role**: Logic/UI  
-**Description**: Huzaifa is a thrives on working with logic and sometimes enjoys UI. He's a big Tea addict and loves gaming. 
+**Description**: Huzaifa thrives on working with logic and sometimes enjoys UI. He's a big Tea addict and loves gaming. 
 
 ---
 
@@ -25,12 +25,12 @@ We are a passionate and dedicated team of 5 individuals, each bringing unique sk
 
 ### ![Team Member 3](..\Nathan.png)  
 **Name**: Nathan Nguyen  
-**Role**: UI/Database  
+**Role**: Logic/Database  
 **Description**: Brief description of Member 3. Highlight their expertise and contributions to the team.
 
 ---
 
-### ![Team Member 4](path-to-picture-4.jpg)  
+### ![Team Member 4](../Arion.jpg)  
 **Name**: Arion Kennedy  
 **Role**: UI  
 **Description**: Arion loved working on the UI layer alongside Nicholas, and communicating with Nathan about the logic layer! He is addicted to monster hunter, and loves the newly released monster hunter wilds!
