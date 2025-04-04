@@ -37,9 +37,9 @@ We are a passionate and dedicated team of 5 individuals, each bringing unique sk
 
 ---
 
-### ![Team Member 5](path-to-picture-5.jpg)  
+### <img src="..\Nicholas.png" alt="Team Member 5" width="200" height="200">  
 **Name**: Nicholas Tan Jian Hau  
 **Role**: UI  
-**Description**: Brief description of Member 5. Mention their role and the skills they contribute to the project.
+**Description**: The UI master. Ensure it works seamlessly with the underlying logic, and provides a smooth user experience, and he likes strawberry.
 
 ---
