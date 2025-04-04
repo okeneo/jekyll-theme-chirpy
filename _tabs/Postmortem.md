@@ -13,7 +13,7 @@ The outlying issue for our development process was understanding the time manage
 ### What would you do differently, if you had the chance to start over?
 If we had the chance to start over, I think that we would definitely communicate a lot more and distribute the work much more accordingly. This is primarily from earlier iterations as we had not realized just how much work each layer would take up.
 ### How large is the project (number of methods, classes, etc)? How much of this is (roughly) devoted to each major system component? And any other quantifiables (e.g. if you have a record of hours spent on tasks).
-The project overall contains approximately 69 different classes among all layers.There is roughly 70 - 80% that are devoted to major system components.
+The project overall contains approximately 69 different classes among all layers. There is roughly 70 - 80% that are devoted to major system components.
 ### What took the most time? The least? Any surprises?
 One particular feature from across all the layers was the playing the quizzes themselves. It wasn’t just creating a front end page, but also learning all about how XML files work within android studio was both surprising and frustrating. Then also how to link each layer to one another initially.
 One feature from across all the layers that took the least amount of time to implement would need to be the preview and end pages as once we were comfortable, creating the UI layer was much easier, and linking it to the logic layer, then the data layer was a lot simpler due to the group keeping good and consistent coding practices throughout the process. This fluid process was the biggest surprise of all.

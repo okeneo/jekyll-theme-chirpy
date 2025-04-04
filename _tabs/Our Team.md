@@ -33,7 +33,7 @@ We are a passionate and dedicated team of 5 individuals, each bringing unique sk
 ### ![Team Member 4](path-to-picture-4.jpg)  
 **Name**: Arion Kennedy  
 **Role**: UI  
-**Description**: Brief description of Member 4. Discuss what makes them an essential part of the team.
+**Description**: Arion loved working on the UI layer alongside Nicholas, and communicating with Nathan about the logic layer!
 
 ---
 
